@@ -1,6 +1,6 @@
 <div align="center">
-  👋 I'm Darshan S<br>
-   💻 Passionate Developer from India 🇮🇳
+ <h1> Hi,👋 I'm Darshan S<h1><br>
+  <h3>💻 Passionate Developer from India 🇮🇳</h3>
 </div>
 
 
