@@ -1,7 +1,7 @@
-   Hi 👋, I'm Darshan S
-
-  💻 Passionate Developer from India 🇮🇳
-
+<div align="center">
+# 👋 I'm Darshan S
+   💻 Passionate Developer from India 🇮🇳
+</div>
 
 
 # 💫 About Me:
