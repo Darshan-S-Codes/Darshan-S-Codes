@@ -1,8 +1,12 @@
 <div align="center">
- <h1> Hi,👋 I'm Darshan S<h1>
-  <h3>💻 Passionate Developer from India 🇮🇳</h3>
-</div>
 
+<h2>Hi, 👋 I'm Darshan S</h2>
+
+<p>━━━━━━━━━━━━━━━━━━━━</p>
+
+<h3>💻 Passionate Developer from India 🇮🇳</h3>
+
+</div>
 
 
 
