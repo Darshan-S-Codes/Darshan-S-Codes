@@ -1,11 +1,9 @@
 <div align="center">
-# 👋 I'm Darshan S
+  👋 I'm Darshan S<br>
    💻 Passionate Developer from India 🇮🇳
 </div>
 
 
-# 💫 About Me:
-Aspiring full stack developer passionate about react, java and building real-world full stack projects<br>
 
 
 ## 🌐 Socials:
